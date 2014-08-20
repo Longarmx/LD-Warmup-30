@@ -1,0 +1,41 @@
+Theme: Parallel Worlds
+Time Start: 5:30pm Saturday, August 16
+Deadline: 5:30pm Monday, August 18
+Time Completed: 4:00pm Tuesday, August 19 (6 Hours of real work)
+
+Ideas:
+You control two characters at the same time, but they are in separate worlds. You have
+to control both of them to travel from a starting point to an ending point. Walls will
+stop them from moving, which essentially lets you only control one character. There
+can also be special pads which 'disconnect' the clone and allow you to control one
+character until they reach a 'connect' pad. Obstacles may include monsters, traps, and
+environmental hazards.
+
+Visuals:
+Cartoon look; Tile based; Birds eye view;
+
+Screen:
+---------------
+|      |      |
+|  P1  |  P2  |
+|      |      |
+|      |      |
+---------------
+Controlling P1 and P2 side by side.
+
+Controls:
+WASD with space for an action button (if needed).
+
+Sounds:
+Retro sounds with BFXR and Midi Piano Composer
+
+
+TODO List:
++ Get Something on screen
++ Two worlds
++ Input
++ Player
++ Graphics
++ Level Interaction
++ Win conditions
++ Death
